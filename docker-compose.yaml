@@ -1,0 +1,10 @@
+version: '3'
+services:
+  angular:
+    image: node:16.13.2-slim
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    environment:
+      - http_proxy
+      - https_prpxy
