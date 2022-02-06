@@ -36,14 +36,12 @@
          glyph-name="a"
          id="glyph928"
          unicode="a"
-         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z"
-         horiz-adv-x="0" />
+         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z" />
       <glyph
          glyph-name="A"
          id="glyph939"
          unicode="A"
-         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z"
-         horiz-adv-x="0" />
+         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z" />
       <glyph
          glyph-name="b"
          id="glyph941"
@@ -84,37 +82,31 @@
          glyph-name="e"
          id="glyph954"
          unicode="e"
-         horiz-adv-x="0"
          d="M 0,524 H 500 V 399 H 0 V 149 H 375 V 24 H 875 V 899 H 375 V 774 H 0 Z" />
       <glyph
          glyph-name="E"
          id="glyph956"
          unicode="E"
-         horiz-adv-x="0"
          d="M 0,524 H 500 V 399 H 0 V 149 H 375 V 24 H 875 V 899 H 375 V 774 H 0 Z" />
       <glyph
          glyph-name="f"
          id="glyph958"
          unicode="f"
-         horiz-adv-x="0"
          d="M 0,24 V 274 H 375 V 399 H 0 V 649 H 625 V 899 H 875 V 24 Z" />
       <glyph
          glyph-name="F"
          id="glyph960"
          unicode="F"
-         horiz-adv-x="0"
          d="M 0,24 V 274 H 375 V 399 H 0 V 649 H 625 V 899 H 875 V 24 Z" />
       <glyph
          glyph-name="g"
          id="glyph962"
          unicode="g"
-         horiz-adv-x="0"
          d="M 0,149 H 125 V 24 H 750 V 149 H 875 V 774 H 750 V 899 H 250 V 774 H 625 V 649 H 250 V 399 H 625 V 274 H 125 V 649 H 0 Z" />
       <glyph
          glyph-name="G"
          id="glyph964"
          unicode="G"
-         horiz-adv-x="0"
          d="M 0,149 H 125 V 24 H 750 V 149 H 875 V 774 H 750 V 899 H 250 V 774 H 625 V 649 H 250 V 399 H 625 V 274 H 125 V 649 H 0 Z" />
       <glyph
          glyph-name="h"
@@ -132,37 +124,31 @@
          glyph-name="i"
          id="glyph972"
          unicode="i"
-         horiz-adv-x="0"
          d="M 0,899 V 24 H 250 V 149 H 375 V 774 H 250 v 125 z m 625,0 V 774 H 500 V 149 H 625 V 24 h 250 v 875 z" />
       <glyph
          glyph-name="I"
          id="glyph974"
          unicode="I"
-         horiz-adv-x="0"
          d="M 0,899 V 24 H 250 V 149 H 375 V 774 H 250 v 125 z m 625,0 V 774 H 500 V 149 H 625 V 24 h 250 v 875 z" />
       <glyph
          glyph-name="j"
          id="glyph977"
          unicode="j"
-         horiz-adv-x="0"
          d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 125,649 V 24 h 500 v 625 z" />
       <glyph
          glyph-name="J"
          id="glyph979"
          unicode="J"
-         horiz-adv-x="0"
          d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 125,649 V 24 h 500 v 625 z" />
       <glyph
          glyph-name="k"
          id="glyph982"
          unicode="k"
-         horiz-adv-x="0"
          d="M 250,899 V 774 H 875 V 899 Z M 0,649 V 274 H 625 V 399 H 750 V 524 H 625 V 649 Z M 250,149 V 24 h 625 v 125 z" />
       <glyph
          glyph-name="K"
          id="glyph984"
          unicode="K"
-         horiz-adv-x="0"
          d="M 250,899 V 774 H 875 V 899 Z M 0,649 V 274 H 625 V 399 H 750 V 524 H 625 V 649 Z M 250,149 V 24 h 625 v 125 z" />
       <glyph
          glyph-name="l"
@@ -204,13 +190,11 @@
          glyph-name="o"
          id="glyph1000"
          unicode="o"
-         horiz-adv-x="0"
          d="M 0,899 V 774 H 125 V 899 Z M 125,774 V 149 h 625 v 625 z m 625,0 H 875 V 899 H 750 Z m 0,-625 V 24 h 125 v 125 z m -625,0 H 0 V 24 h 125 z" />
       <glyph
          glyph-name="O"
          id="glyph1002"
          unicode="O"
-         horiz-adv-x="0"
          d="M 0,899 V 774 H 125 V 899 Z M 125,774 V 149 h 625 v 625 z m 625,0 H 875 V 899 H 750 Z m 0,-625 V 24 h 125 v 125 z m -625,0 H 0 V 24 h 125 z" />
       <glyph
          glyph-name="p"
@@ -228,13 +212,11 @@
          glyph-name="q"
          id="glyph1009"
          unicode="q"
-         d="M 875,899 V 274 H 750 V 149 H 125 V 274 H 0 V 899 H 125 V 774 H 250 V 524 H 500 V 774 H 250 V 899 H 125 v 125 H 750 V 899 Z"
-         horiz-adv-x="0" />
+         d="M 875,899 V 274 H 750 V 149 H 125 V 274 H 0 V 899 H 125 V 774 H 250 V 524 H 500 V 774 H 250 V 899 H 125 v 125 H 750 V 899 Z" />
       <glyph
          glyph-name="Q"
          id="glyph1011"
          unicode="Q"
-         horiz-adv-x="0"
          d="M 875,899 V 274 H 750 V 149 H 125 V 274 H 0 V 899 H 125 V 774 H 250 V 524 H 500 V 774 H 250 V 899 H 125 v 125 H 750 V 899 Z" />
       <glyph
          glyph-name="r"
@@ -252,19 +234,16 @@
          glyph-name="s"
          id="glyph1018"
          unicode="s"
-         d="M 125,774 V 649 H 0 V 524 h 750 v 250 z m 0,-375 V 149 h 625 v 125 h 125 v 125 z"
-         horiz-adv-x="0" />
+         d="M 125,774 V 649 H 0 V 524 h 750 v 250 z m 0,-375 V 149 h 625 v 125 h 125 v 125 z" />
       <glyph
          glyph-name="S"
          id="glyph1021"
          unicode="S"
-         horiz-adv-x="0"
          d="M 125,774 V 649 H 0 V 524 h 750 v 250 z m 0,-375 V 149 h 625 v 125 h 125 v 125 z" />
       <glyph
          glyph-name="t"
          id="glyph1023"
          unicode="t"
-         horiz-adv-x="0"
          d="M 0,899 V 149 h 375 v 750 z m 500,0 V 149 h 375 v 750 z" />
       <glyph
          glyph-name="T"
