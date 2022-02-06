@@ -1,0 +1,17 @@
+version: '3'
+services:
+  fontforge:
+    build:
+      context: .
+      args:
+        - http_proxy
+        - https_proxy
+    environment:
+      - http_proxy
+      - https_proxy
+    volumes:
+      - .:/workspace
+    command:
+      - -lang=ff
+      - -c
+      - Open('font.svg');Generate('font.ttf');Generate('font.otf');Generate('font.woff');Generate('font.woff2');

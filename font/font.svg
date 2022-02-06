@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="font.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 875 1000"
+   height="1000"
+   width="875"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <font
+       horiz-adv-x="1000"
+       id="font922"
+       inkscape:label="フォント 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         id="font-face924"
+         font-family="sevendays" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph926" />
+      <glyph
+         glyph-name="a"
+         id="glyph928"
+         unicode="a"
+         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z"
+         horiz-adv-x="0" />
+      <glyph
+         glyph-name="A"
+         id="glyph939"
+         unicode="A"
+         d="M 125,899 V 274 H 250 V 149 H 625 V 274 H 750 V 899 Z M 0,149 V 24 h 125 v 125 z m 750,0 V 24 h 125 v 125 z"
+         horiz-adv-x="0" />
+      <glyph
+         glyph-name="b"
+         id="glyph941"
+         unicode="b"
+         d="M 750,149 H 125 V 274 H 0 V 649 H 125 V 774 H 750 V 524 H 250 V 399 h 500 z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="B"
+         id="glyph943"
+         unicode="B"
+         d="M 750,149 H 125 V 274 H 0 V 649 H 125 V 774 H 750 V 524 H 250 V 399 h 500 z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="c"
+         id="glyph945"
+         unicode="c"
+         d="M 750,774 H 125 V 649 H 0 V 274 H 125 V 149 H 750 Z M 375,524 H 500 V 399 H 375 Z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="C"
+         id="glyph947"
+         unicode="C"
+         d="M 750,774 H 125 V 649 H 0 V 274 H 125 V 149 H 750 Z M 375,524 H 500 V 399 H 375 Z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="d"
+         id="glyph949"
+         unicode="d"
+         d="M 0,899 V 24 H 125 V 274 H 250 V 399 H 375 V 524 H 250 V 649 H 125 V 899 Z M 250,649 H 375 V 524 H 500 V 399 H 375 V 274 H 250 V 149 H 750 V 774 H 250 Z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="D"
+         id="glyph951"
+         unicode="D"
+         d="M 0,899 V 24 H 125 V 274 H 250 V 399 H 375 V 524 H 250 V 649 H 125 V 899 Z M 250,649 H 375 V 524 H 500 V 399 H 375 V 274 H 250 V 149 H 750 V 774 H 250 Z"
+         horiz-adv-x="875.00" />
+      <glyph
+         glyph-name="e"
+         id="glyph954"
+         unicode="e"
+         horiz-adv-x="0"
+         d="M 0,524 H 500 V 399 H 0 V 149 H 375 V 24 H 875 V 899 H 375 V 774 H 0 Z" />
+      <glyph
+         glyph-name="E"
+         id="glyph956"
+         unicode="E"
+         horiz-adv-x="0"
+         d="M 0,524 H 500 V 399 H 0 V 149 H 375 V 24 H 875 V 899 H 375 V 774 H 0 Z" />
+      <glyph
+         glyph-name="f"
+         id="glyph958"
+         unicode="f"
+         horiz-adv-x="0"
+         d="M 0,24 V 274 H 375 V 399 H 0 V 649 H 625 V 899 H 875 V 24 Z" />
+      <glyph
+         glyph-name="F"
+         id="glyph960"
+         unicode="F"
+         horiz-adv-x="0"
+         d="M 0,24 V 274 H 375 V 399 H 0 V 649 H 625 V 899 H 875 V 24 Z" />
+      <glyph
+         glyph-name="g"
+         id="glyph962"
+         unicode="g"
+         horiz-adv-x="0"
+         d="M 0,149 H 125 V 24 H 750 V 149 H 875 V 774 H 750 V 899 H 250 V 774 H 625 V 649 H 250 V 399 H 625 V 274 H 125 V 649 H 0 Z" />
+      <glyph
+         glyph-name="G"
+         id="glyph964"
+         unicode="G"
+         horiz-adv-x="0"
+         d="M 0,149 H 125 V 24 H 750 V 149 H 875 V 774 H 750 V 899 H 250 V 774 H 625 V 649 H 250 V 399 H 625 V 274 H 125 V 649 H 0 Z" />
+      <glyph
+         glyph-name="h"
+         id="glyph966"
+         unicode="h"
+         horiz-adv-x="750"
+         d="M 0,899 V 524 H 625 V 899 Z M 0,399 V 24 h 625 v 375 z" />
+      <glyph
+         glyph-name="H"
+         id="glyph969"
+         unicode="H"
+         horiz-adv-x="750"
+         d="M 0,899 V 524 H 625 V 899 Z M 0,399 V 24 h 625 v 375 z" />
+      <glyph
+         glyph-name="i"
+         id="glyph972"
+         unicode="i"
+         horiz-adv-x="0"
+         d="M 0,899 V 24 H 250 V 149 H 375 V 774 H 250 v 125 z m 625,0 V 774 H 500 V 149 H 625 V 24 h 250 v 875 z" />
+      <glyph
+         glyph-name="I"
+         id="glyph974"
+         unicode="I"
+         horiz-adv-x="0"
+         d="M 0,899 V 24 H 250 V 149 H 375 V 774 H 250 v 125 z m 625,0 V 774 H 500 V 149 H 625 V 24 h 250 v 875 z" />
+      <glyph
+         glyph-name="j"
+         id="glyph977"
+         unicode="j"
+         horiz-adv-x="0"
+         d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 125,649 V 24 h 500 v 625 z" />
+      <glyph
+         glyph-name="J"
+         id="glyph979"
+         unicode="J"
+         horiz-adv-x="0"
+         d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 125,649 V 24 h 500 v 625 z" />
+      <glyph
+         glyph-name="k"
+         id="glyph982"
+         unicode="k"
+         horiz-adv-x="0"
+         d="M 250,899 V 774 H 875 V 899 Z M 0,649 V 274 H 625 V 399 H 750 V 524 H 625 V 649 Z M 250,149 V 24 h 625 v 125 z" />
+      <glyph
+         glyph-name="K"
+         id="glyph984"
+         unicode="K"
+         horiz-adv-x="0"
+         d="M 250,899 V 774 H 875 V 899 Z M 0,649 V 274 H 625 V 399 H 750 V 524 H 625 V 649 Z M 250,149 V 24 h 625 v 125 z" />
+      <glyph
+         glyph-name="l"
+         id="glyph986"
+         unicode="l"
+         horiz-adv-x="750"
+         d="M 0,24 H 625 V 649 H 0 Z" />
+      <glyph
+         glyph-name="L"
+         id="glyph988"
+         unicode="L"
+         horiz-adv-x="750"
+         d="M 0,24 H 625 V 649 H 0 Z" />
+      <glyph
+         glyph-name="m"
+         id="glyph990"
+         unicode="m"
+         d="M 0,899 V 149 H 125 V 274 H 250 V 399 H 375 V 274 H 500 V 149 h 125 v 750 z"
+         horiz-adv-x="750" />
+      <glyph
+         glyph-name="M"
+         id="glyph992"
+         unicode="M"
+         horiz-adv-x="750"
+         d="M 0,899 V 149 H 125 V 274 H 250 V 399 H 375 V 274 H 500 V 149 h 125 v 750 z" />
+      <glyph
+         glyph-name="n"
+         id="glyph995"
+         unicode="n"
+         horiz-adv-x="750"
+         d="M 0,899 0.015625,399 H 125.01562 v 125 h 125 v 125 h 125 v 125 h 125 V 899 Z M 500,649 V 524 H 375 V 399 H 250 V 274 H 125 V 149 H 0 V 24 h 625 v 625 z" />
+      <glyph
+         glyph-name="N"
+         id="glyph997"
+         unicode="N"
+         horiz-adv-x="750"
+         d="M 0,899 0.015625,399 H 125.01562 v 125 h 125 v 125 h 125 v 125 h 125 V 899 Z M 500,649 V 524 H 375 V 399 H 250 V 274 H 125 V 149 H 0 V 24 h 625 v 625 z" />
+      <glyph
+         glyph-name="o"
+         id="glyph1000"
+         unicode="o"
+         horiz-adv-x="0"
+         d="M 0,899 V 774 H 125 V 899 Z M 125,774 V 149 h 625 v 625 z m 625,0 H 875 V 899 H 750 Z m 0,-625 V 24 h 125 v 125 z m -625,0 H 0 V 24 h 125 z" />
+      <glyph
+         glyph-name="O"
+         id="glyph1002"
+         unicode="O"
+         horiz-adv-x="0"
+         d="M 0,899 V 774 H 125 V 899 Z M 125,774 V 149 h 625 v 625 z m 625,0 H 875 V 899 H 750 Z m 0,-625 V 24 h 125 v 125 z m -625,0 H 0 V 24 h 125 z" />
+      <glyph
+         glyph-name="p"
+         id="glyph1004"
+         unicode="p"
+         horiz-adv-x="750"
+         d="M 0,899 V 524 H 625 V 899 Z M 0,399 V 149 h 500 v 250 z" />
+      <glyph
+         glyph-name="P"
+         id="glyph1007"
+         unicode="P"
+         horiz-adv-x="750"
+         d="M 0,899 V 524 H 625 V 899 Z M 0,399 V 149 h 500 v 250 z" />
+      <glyph
+         glyph-name="q"
+         id="glyph1009"
+         unicode="q"
+         d="M 875,899 V 274 H 750 V 149 H 125 V 274 H 0 V 899 H 125 V 774 H 250 V 524 H 500 V 774 H 250 V 899 H 125 v 125 H 750 V 899 Z"
+         horiz-adv-x="0" />
+      <glyph
+         glyph-name="Q"
+         id="glyph1011"
+         unicode="Q"
+         horiz-adv-x="0"
+         d="M 875,899 V 274 H 750 V 149 H 125 V 274 H 0 V 899 H 125 V 774 H 250 V 524 H 500 V 774 H 250 V 899 H 125 v 125 H 750 V 899 Z" />
+      <glyph
+         glyph-name="r"
+         id="glyph1013"
+         unicode="r"
+         d="M 0,899 V 524 H 500 V 899 Z M 0,399 V 149 h 625 v 250 z"
+         horiz-adv-x="750" />
+      <glyph
+         glyph-name="R"
+         id="glyph1016"
+         unicode="R"
+         horiz-adv-x="750"
+         d="M 0,899 V 524 H 500 V 899 Z M 0,399 V 149 h 625 v 250 z" />
+      <glyph
+         glyph-name="s"
+         id="glyph1018"
+         unicode="s"
+         d="M 125,774 V 649 H 0 V 524 h 750 v 250 z m 0,-375 V 149 h 625 v 125 h 125 v 125 z"
+         horiz-adv-x="0" />
+      <glyph
+         glyph-name="S"
+         id="glyph1021"
+         unicode="S"
+         horiz-adv-x="0"
+         d="M 125,774 V 649 H 0 V 524 h 750 v 250 z m 0,-375 V 149 h 625 v 125 h 125 v 125 z" />
+      <glyph
+         glyph-name="t"
+         id="glyph1023"
+         unicode="t"
+         horiz-adv-x="0"
+         d="M 0,899 V 149 h 375 v 750 z m 500,0 V 149 h 375 v 750 z" />
+      <glyph
+         glyph-name="T"
+         id="glyph1026"
+         unicode="T"
+         d="M 0,899 V 149 h 375 v 750 z m 500,0 V 149 h 375 v 750 z" />
+      <glyph
+         glyph-name="u"
+         id="glyph1028"
+         unicode="u"
+         d="M 0,24 H 625 V 649 H 500 V 774 H 125 V 649 H 0 Z"
+         horiz-adv-x="750" />
+      <glyph
+         glyph-name="U"
+         id="glyph1030"
+         unicode="U"
+         horiz-adv-x="750"
+         d="M 0,24 H 625 V 649 H 500 V 774 H 125 V 649 H 0 Z" />
+      <glyph
+         glyph-name="v"
+         id="glyph1032"
+         unicode="v"
+         d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 375,774 V 649 H 250 V 399 H 125 V 24 H 750 V 399 H 625 V 649 H 500 v 125 z" />
+      <glyph
+         glyph-name="V"
+         id="glyph1035"
+         unicode="V"
+         d="M 0,899 V 774 h 125 v 125 z m 750,0 V 774 H 875 V 899 Z M 375,774 V 649 H 250 V 399 H 125 V 24 H 750 V 399 H 625 V 649 H 500 v 125 z" />
+      <glyph
+         glyph-name="w"
+         id="glyph1038"
+         unicode="w"
+         d="M 0,899 V 524 H 125 V 899 Z M 125,524 V 24 H 750 V 524 H 625 V 774 H 500 V 399 H 375 V 774 H 250 V 524 Z m 625,0 H 875 V 899 H 750 Z" />
+      <glyph
+         glyph-name="W"
+         id="glyph1040"
+         unicode="W"
+         d="M 0,899 V 524 H 125 V 899 Z M 125,524 V 24 H 750 V 524 H 625 V 774 H 500 V 399 H 375 V 774 H 250 V 524 Z m 625,0 H 875 V 899 H 750 Z" />
+      <glyph
+         glyph-name="x"
+         id="glyph1043"
+         unicode="x"
+         d="M 125,899 V 774 H 250 V 649 H 375 V 524 H 500 V 649 H 625 V 774 H 750 V 899 Z M 750,774 V 649 H 625 V 524 H 500 V 399 H 625 V 274 H 750 V 149 h 125 v 625 z m 0,-625 H 625 V 274 H 500 V 399 H 375 V 274 H 250 V 149 H 125 V 24 h 625 z m -625,0 V 274 H 250 V 399 H 375 V 524 H 250 V 649 H 125 V 774 H 0 V 149 Z" />
+      <glyph
+         glyph-name="X"
+         id="glyph1045"
+         unicode="X"
+         d="M 125,899 V 774 H 250 V 649 H 375 V 524 H 500 V 649 H 625 V 774 H 750 V 899 Z M 750,774 V 649 H 625 V 524 H 500 V 399 H 625 V 274 H 750 V 149 h 125 v 625 z m 0,-625 H 625 V 274 H 500 V 399 H 375 V 274 H 250 V 149 H 125 V 24 h 625 z m -625,0 V 274 H 250 V 399 H 375 V 524 H 250 V 649 H 125 V 774 H 0 V 149 Z" />
+      <glyph
+         glyph-name="y"
+         id="glyph1047"
+         unicode="y"
+         d="m 250,149 h 375 v 250 h 250 v 625 H 625 V 524 H 500 V 399 H 375 V 524 H 250 v 500 H 0 V 399 h 250 z" />
+      <glyph
+         glyph-name="Y"
+         id="glyph1049"
+         unicode="Y"
+         d="m 250,149 h 375 v 250 h 250 v 625 H 625 V 524 H 500 V 399 H 375 V 524 H 250 v 500 H 0 V 399 h 250 z" />
+      <glyph
+         glyph-name="z"
+         id="glyph1051"
+         unicode="z"
+         d="M 250,899 V 774 H 375 V 649 H 500 V 524 H 625 V 399 H 750 V 274 H 875 V 899 Z M 0,774 V 149 H 625 V 274 H 500 V 399 H 375 V 524 H 250 V 649 H 125 v 125 z" />
+      <glyph
+         glyph-name="Z"
+         id="glyph1054"
+         unicode="Z"
+         d="M 250,899 V 774 H 375 V 649 H 500 V 524 H 625 V 399 H 750 V 274 H 875 V 899 Z M 0,774 V 149 H 625 V 274 H 500 V 399 H 375 V 524 H 250 V 649 H 125 v 125 z" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="367.6506"
+     inkscape:cy="541.10634"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer27"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     showborder="false"
+     units="px"
+     scale-x="0.8" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="grid"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="rect835"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,0 h 125 125 125 125 125 125 125 v 125 125 125 125 125 125 250 H 750 625 500 375 250 125 0 V 750 625 500 375 250 125 0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 125,0 V 1000"
+       id="path852"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250,0 V 1000"
+       id="path854"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 375,0 V 1000"
+       id="path856"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 500,0 V 1000"
+       id="path858"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 625,0 V 1000"
+       id="path860"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 750,0 V 1000"
+       id="path862"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 H 875"
+       id="path864" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,250 H 875"
+       id="path866" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,375 H 875"
+       id="path868" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,500 H 875"
+       id="path870" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,625 H 875"
+       id="path872" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,750 H 875"
+       id="path874" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,875 H 875"
+       id="path1011" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="A"
+     style="display:none">
+    <path
+       id="rect877"
+       style="fill:#000000;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 125,125 V 750 H 250 V 875 H 625 V 750 H 750 V 125 Z M 0,875 v 125 H 125 V 875 Z m 750,0 v 125 H 875 V 875 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="B"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 750,875 H 125 V 750 H 0 V 375 H 125 V 250 H 750 V 500 H 250 v 125 h 500 z"
+       id="path884"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="C"
+     style="display:none">
+    <path
+       id="path887"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 750,250 H 125 V 375 H 0 V 750 H 125 V 875 H 750 Z M 375,500 H 500 V 625 H 375 Z"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="D"
+     style="display:none">
+    <path
+       id="path893"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,125 v 875 H 125 V 750 H 250 V 625 H 375 V 500 H 250 V 375 H 125 V 125 Z M 250,375 H 375 V 500 H 500 V 625 H 375 V 750 H 250 V 875 H 750 V 250 H 250 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="E"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,500 H 500 V 625 H 0 v 250 h 375 v 125 H 875 V 125 H 375 V 250 H 0 Z"
+       id="path898"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="F"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,1000 V 750 H 375 V 625 H 0 V 375 H 625 V 125 h 250 v 875 z"
+       id="path901"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="G"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,875 h 125 v 125 H 750 V 875 H 875 V 250 H 750 V 125 H 250 V 250 H 625 V 375 H 250 V 625 H 625 V 750 H 125 V 375 H 0 Z"
+       id="path904"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="H"
+     style="display:none">
+    <path
+       id="path907"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 500 H 625 V 125 Z m 0,500 v 375 H 625 V 625 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="I"
+     style="display:none">
+    <path
+       id="path912"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,125 v 875 H 250 V 875 H 375 V 250 H 250 V 125 Z m 625,0 V 250 H 500 v 625 h 125 v 125 H 875 V 125 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="J"
+     style="display:none">
+    <path
+       id="path917"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 250 H 125 V 125 Z m 750,0 V 250 H 875 V 125 Z M 125,375 v 625 H 625 V 375 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="K"
+     style="display:none">
+    <path
+       id="path926"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250,125 V 250 H 875 V 125 Z M 0,375 V 750 H 625 V 625 H 750 V 500 H 625 V 375 Z m 250,500 v 125 H 875 V 875 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="L"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,1000 H 625 V 375 H 0 Z"
+       id="path933" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="M"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 875 H 125 V 750 H 250 V 625 H 375 V 750 H 500 V 875 H 625 V 125 Z"
+       id="path936" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="N"
+     style="display:none">
+    <path
+       id="path939"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 0.015625,625 H 125.01562 V 500 h 125 V 375 h 125 V 250 h 125 V 125 Z M 500,375 V 500 H 375 V 625 H 250 V 750 H 125 V 875 H 0 v 125 H 625 V 375 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="O"
+     style="display:none">
+    <path
+       id="path944"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 250 H 125 V 125 Z M 125,250 V 875 H 750 V 250 Z m 625,0 H 875 V 125 H 750 Z m 0,625 v 125 H 875 V 875 Z m -625,0 H 0 v 125 h 125 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="P"
+     style="display:none">
+    <path
+       id="path955"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 500 H 625 V 125 Z M 0,625 V 875 H 500 V 625 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Q"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 875,125 V 750 H 750 V 875 H 125 V 750 H 0 V 125 H 125 V 250 H 250 V 500 H 500 V 250 H 250 V 125 H 125 V 0 h 625 v 125 z"
+       id="path960"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="R"
+     style="display:none">
+    <path
+       id="path963"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 500 H 500 V 125 Z M 0,625 V 875 H 625 V 625 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="S"
+     style="display:none">
+    <path
+       id="path968"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 125,250 V 375 H 0 V 500 H 750 V 250 Z m 0,375 V 875 H 750 V 750 H 875 V 625 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="T"
+     style="display:none">
+    <path
+       id="path973"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 875 H 375 V 125 Z m 500,0 V 875 H 875 V 125 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="U"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,1000 H 625 V 375 H 500 V 250 H 125 V 375 H 0 Z"
+       id="path978"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="V"
+     style="display:none">
+    <path
+       id="path981"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 250 H 125 V 125 Z m 750,0 V 250 H 875 V 125 Z M 375,250 V 375 H 250 V 625 H 125 v 375 H 750 V 625 H 625 V 375 H 500 V 250 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="W"
+     style="display:none">
+    <path
+       id="path988"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,125 V 500 H 125 V 125 Z m 125,375 v 500 H 750 V 500 H 625 V 250 H 500 V 625 H 375 V 250 H 250 v 250 z m 625,0 H 875 V 125 H 750 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="X"
+     style="display:none">
+    <path
+       id="path995"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 125,125 V 250 H 250 V 375 H 375 V 500 H 500 V 375 H 625 V 250 H 750 V 125 Z M 750,250 V 375 H 625 V 500 H 500 V 625 H 625 V 750 H 750 V 875 H 875 V 250 Z m 0,625 H 625 V 750 H 500 V 625 H 375 V 750 H 250 V 875 H 125 v 125 h 625 z m -625,0 V 750 H 250 V 625 H 375 V 500 H 250 V 375 H 125 V 250 H 0 v 625 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="Y"
+     style="display:none">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250,875 H 625 V 625 H 875 V 0 H 625 V 500 H 500 V 625 H 375 V 500 H 250 V 0 H 0 v 625 h 250 z"
+       id="path1004"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer27"
+     inkscape:label="Z"
+     style="display:inline">
+    <path
+       id="path1007"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250 125 L 250 250 L 375 250 L 375 375 L 500 375 L 500 500 L 625 500 L 625 625 L 750 625 L 750 750 L 875 750 L 875 125 L 250 125 z M 0 250 L 0 875 L 625 875 L 625 750 L 500 750 L 500 625 L 375 625 L 375 500 L 250 500 L 250 375 L 125 375 L 125 250 L 0 250 z " />
+  </g>
+</svg>
