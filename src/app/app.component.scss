@@ -36,3 +36,16 @@ mat-hint.sevendaysfont {
     padding: 0.25em;
   }
 }
+
+.word-check {
+  color: #999;
+  &.inhistory {
+    color: #090;
+  }
+}
+
+.results {
+  display: flex;
+  column-gap: 1em;
+  align-items: flex-start;
+}

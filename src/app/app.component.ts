@@ -1,4 +1,5 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
+import { HistoryService } from './services/history.service';
 
 interface Caesar {
   shift: number;
@@ -16,6 +17,10 @@ export class AppComponent {
   word = '';
   reverse = false;
   keyboardSize = 2;
+
+  constructor(
+    public historyService: HistoryService,
+  ) {}
 
   get letters(): string[] {
     const ret: string[] = [];
@@ -106,5 +111,31 @@ export class AppComponent {
       ret.push(this.caesar(this.word, shift, this.reverse));
     }
     return ret;
+  }
+
+  hasHistory(decoded: string): boolean {
+    let encoded = this.word;
+    if (this.reverse) {
+      [decoded, encoded] = [encoded, decoded];
+    }
+    return this.historyService.findHistory(encoded, decoded) !== undefined;
+  }
+
+  toggleHistory(decoded: string) {
+    console.log('decoded: %o', decoded);
+    let encoded = this.word;
+    if (this.reverse) {
+      [decoded, encoded] = [encoded, decoded];
+    }
+    const key = this.historyService.findHistory(encoded, decoded);
+    if (key !== undefined) {
+      this.historyService.removeHistory(key);
+    } else {
+      this.historyService.addHistory(encoded, decoded);
+    }
+  }
+
+  getCandidates() {
+    return this.historyService.getCandidates(this.word, this.reverse);
   }
 }
