@@ -1,8 +1,26 @@
 <mat-card>
-  <mat-form-field appearance="outline">
-    <mat-label>Word</mat-label>
-    <input matInput [(ngModel)]="word">
-  </mat-form-field>
+  <div class="input">
+    <mat-form-field appearance="outline">
+      <mat-label>Word</mat-label>
+      <input #wordInput matInput [(ngModel)]="word">
+      <mat-hint class="sevendaysfont">{{word}}</mat-hint>
+    </mat-form-field>
+    <mat-checkbox [(ngModel)]="reverse">Reverse</mat-checkbox>
+  </div>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Keyboard</mat-panel-title>
+    </mat-expansion-panel-header>
+    <div class="keyboard-buttons" style.fontSize="{{keyboardSize}}em">
+        <button mat-stroked-button
+          class="sevendaysfont"
+          (click)="input(letter)"
+          [attr.data-size]="keyboardSize"
+          *ngFor="let letter of letters"
+        >{{letter}}</button>
+    </div>
+  </mat-expansion-panel>
 
   <table mat-table [dataSource]="caesarList" *ngIf="word.trim()!==''">
     <ng-container matColumnDef="shift">
@@ -13,6 +31,10 @@
       <th mat-header-cell *matHeaderCellDef>Word</th>
       <td mat-cell *matCellDef="let element">{{element.word}}</td>
     </ng-container>
-    <tr mat-row *matRowDef="let row; columns: ['shift', 'word'];"></tr>
+    <ng-container matColumnDef="word-sevendays">
+      <th mat-header-cell *matHeaderCellDef>Word</th>
+      <td mat-cell class="sevendaysfont" *matCellDef="let element">{{element.word}}</td>
+    </ng-container>
+    <tr mat-row *matRowDef="let row; columns: reverse ? ['shift', 'word', 'word-sevendays'] : ['shift', 'word'];"></tr>
   </table>
 </mat-card>

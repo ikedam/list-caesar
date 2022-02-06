@@ -7,6 +7,32 @@ mat-header-cell,
   padding: 0.75rem;
 }
 
+.input {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 .mat-column-shift {
   text-align: right;
+}
+
+.sevendaysfont {
+  font-family: sevendays;
+}
+
+mat-hint.sevendaysfont {
+  font-size: 1rem;
+}
+
+.keyboard-buttons {
+  button {
+    font-size: inherit;
+    margin: 0.25em;
+    width: 3em;
+    height: 3em;
+    min-width: 0;
+    padding: 0.25em;
+  }
 }

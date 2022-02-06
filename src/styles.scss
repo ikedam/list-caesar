@@ -2,3 +2,8 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+@font-face {
+  font-family: 'sevendays';
+  src: url('assets/font.woff2') format('woff2'), url('assets/font.woff') format('woff');
+}
